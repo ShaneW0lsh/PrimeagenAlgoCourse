@@ -8,7 +8,7 @@ def main():
         "#        # #",
         "# ######## #",
         "#          #",
-        "# ##########",
+        "# ##########"
     ]
 
     points = solve(maze, wall="#", start=Point(0, 10), end=Point(5, 1))
